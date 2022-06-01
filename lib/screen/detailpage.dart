@@ -5,7 +5,7 @@ import '../widget/class.dart';
 
 class DetailsPage extends StatelessWidget {
   final Recipe recipe;
-  DetailsPage({required this.recipe});
+  const DetailsPage({required this.recipe});
 
   @override
   Widget build(BuildContext context) {

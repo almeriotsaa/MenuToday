@@ -2,7 +2,6 @@
 
 A new Flutter project.
 
-|<img src=/images/SS Home.png/> | <img src=/images/SS Recipe.png/> | <img src=/images/SS Profile.png/> |
+|<img src=/images/sshome.png/> | <img src=/images/ssrecipe.png/> | <img src=/images/ssprofile.png/> |
 |:--:|:--:|:--:|
-|<img src=/images/SS Detail.png/> | 
-|:--:|:--:|
+|<img src=/images/ssdetail.png/> | 
